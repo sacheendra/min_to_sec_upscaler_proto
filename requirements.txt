@@ -1,0 +1,4 @@
+pandas==1.2.2
+plotnine==0.7.1
+scipy==1.5.4
+stochastic==0.6.0
